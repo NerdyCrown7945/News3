@@ -1,0 +1,64 @@
+{
+  "recent_days": 7,
+  "keywords_top": [
+    {
+      "keyword": "model",
+      "count": 2
+    },
+    {
+      "keyword": "for",
+      "count": 2
+    },
+    {
+      "keyword": "openai",
+      "count": 1
+    },
+    {
+      "keyword": "released",
+      "count": 1
+    },
+    {
+      "keyword": "lighter",
+      "count": 1
+    },
+    {
+      "keyword": "reasoning",
+      "count": 1
+    },
+    {
+      "keyword": "the",
+      "count": 1
+    },
+    {
+      "keyword": "company",
+      "count": 1
+    },
+    {
+      "keyword": "announced",
+      "count": 1
+    },
+    {
+      "keyword": "lightweight",
+      "count": 1
+    }
+  ],
+  "source_distribution": [
+    {
+      "source": "OpenAI",
+      "count": 1
+    },
+    {
+      "source": "TechCrunch",
+      "count": 1
+    },
+    {
+      "source": "ScienceDaily",
+      "count": 1
+    }
+  ],
+  "topic_ratio": {
+    "AI": 2,
+    "ScienceTech": 1,
+    "Other": 0
+  }
+}
