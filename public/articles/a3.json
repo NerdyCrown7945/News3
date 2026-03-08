@@ -1,0 +1,27 @@
+{
+  "id": "a3",
+  "title": "OpenAI announces lightweight reasoning model for devices",
+  "source_name": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/02/24/openai-reasoning-model/",
+  "published_at": "2026-02-24T10:30:00Z",
+  "topic": "AI",
+  "canonical_url": "https://techcrunch.com/2026/02/24/openai-reasoning-model",
+  "original_url": "https://techcrunch.com/2026/02/24/openai-reasoning-model/",
+  "is_valid_source_url": true,
+  "source_url_status_code": 200,
+  "summary_ko": "The company announced a lightweight model for on-device reasoning with lower cost",
+  "key_points": [
+    "The company announced a lightweight model for on-device reasoning with lower cost"
+  ],
+  "keywords": [
+    "the",
+    "company",
+    "announced",
+    "lightweight",
+    "model",
+    "for"
+  ],
+  "content_text": "The company announced a lightweight model for on-device reasoning with lower cost.",
+  "cluster_id": "cluster-001",
+  "content_hash": "9abbd6d60fabe9711202d1ee28fe20b7205e9a55"
+}

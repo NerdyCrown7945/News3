@@ -1,0 +1,19 @@
+[
+  {
+    "cluster_id": "cluster-001",
+    "cluster_title": "OpenAI announces lightweight reasoning model for devices",
+    "cluster_summary_ko": "OpenAI released a lighter reasoning model for edge inference The model improves latency and cost / The company announced a lightweight model for on-device reasoning with lower cost",
+    "keywords": [
+      "model",
+      "for",
+      "openai",
+      "released",
+      "lighter"
+    ],
+    "article_ids": [
+      "a3",
+      "a1"
+    ],
+    "updated_at": "2026-02-25T15:39:56.152265"
+  }
+]

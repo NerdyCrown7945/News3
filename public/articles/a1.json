@@ -1,0 +1,28 @@
+{
+  "id": "a1",
+  "title": "OpenAI announces lightweight reasoning model",
+  "source_name": "OpenAI",
+  "source_url": "https://openai.com/blog/reasoning",
+  "published_at": "2026-02-24T10:00:00Z",
+  "topic": "AI",
+  "canonical_url": "https://openai.com/blog/reasoning",
+  "original_url": "https://openai.com/blog/reasoning?utm_source=x",
+  "is_valid_source_url": true,
+  "source_url_status_code": 200,
+  "summary_ko": "OpenAI released a lighter reasoning model for edge inference The model improves latency and cost",
+  "key_points": [
+    "OpenAI released a lighter reasoning model for edge inference",
+    "The model improves latency and cost"
+  ],
+  "keywords": [
+    "model",
+    "openai",
+    "released",
+    "lighter",
+    "reasoning",
+    "for"
+  ],
+  "content_text": "OpenAI released a lighter reasoning model for edge inference. The model improves latency and cost.",
+  "cluster_id": "cluster-001",
+  "content_hash": "b4ea10e22645aac770e81f58d3b5267cba8bde38"
+}
